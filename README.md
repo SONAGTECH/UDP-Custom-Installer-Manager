@@ -33,15 +33,9 @@ wget "https://raw.githubusercontent.com/Loveago/UDP-Custom-Installer-Manager/mai
  * Edit path config /root/udp/config.json, after changing it then reboot
  * Optional port exclude separated by coma, ex. 53,5300
 
-## Telegram 
- > [voltssh](https://t.me/vp_voltssh)
-
- > [Volt SSH Replies](https://t.me/VoltsshBot)
 
 ## Credit
  > [ePro_Dev_Team](https://t.me/ePro_Dev_Team/141)
-
- > [@rudi9999]()
 
 #
   > _made from pieces with ❤️_
